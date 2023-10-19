@@ -1,5 +1,1 @@
-
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+Authors introduce the Military Aircraft Detection Dataset, a comprehensive dataset designed for object detection of military aircraft. This dataset features bounding boxes in PASCAL VOC format (xmin, ymin, xmax, ymax) and includes images of 43 distinct aircraft types, such as A-10, F-35, Su-57, and more. The dataset, comprising 12,000 images in total, was sourced from Wikimedia Commons and Google Image Search, making it a valuable resource for training and evaluating object detection models for military aircraft recognition and classification tasks.
